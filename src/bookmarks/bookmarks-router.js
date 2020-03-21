@@ -28,6 +28,7 @@ bookmarksRouter
 
     const bookmark = { id: uuid(), title, url, description, rating }
 
+
     store.bookmarks.push(bookmark)
 
     logger.info(`Bookmark with id ${bookmark.id} created`)
@@ -48,7 +49,7 @@ bookmarksRouter
       logger.error(`Bookmark with id ${bookmark_id} not found.`)
       return res
         .status(404)
-        .send('Bookmark Not Found')
+        .send(`Bookmark Not Found`)
     }
 
     res.json(bookmark)
