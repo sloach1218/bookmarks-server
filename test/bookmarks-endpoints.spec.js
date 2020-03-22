@@ -257,7 +257,7 @@ describe('Bookmarks Endpoints', () => {
         })
     })
 
-    /*it(`responds with 400 invalid 'url' if not a valid URL`, () => {
+    it(`responds with 400 invalid 'url' if not a valid URL`, () => {
       const newBookmarkInvalidUrl = {
         title: 'test-title',
         url: 'htp://invalid-url',
@@ -270,7 +270,7 @@ describe('Bookmarks Endpoints', () => {
         .expect(400, {
           error: { message: `'url' must be a valid URL` }
         })
-    })*/
+    })
 
     it('adds a new bookmark to the store', () => {
       const newBookmark = {

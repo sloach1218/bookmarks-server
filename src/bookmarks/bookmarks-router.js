@@ -1,5 +1,5 @@
 const express = require('express')
-//const { isWebUri } = require('valid-url')
+const { isWebUri } = require('valid-url')
 const xss = require('xss')
 const logger = require('../logger')
 const BookmarksService = require('./bookmarks-service')
@@ -42,6 +42,12 @@ bookmarksRouter
       logger.error(`Invalid rating '${rating}' supplied`)
       return res.status(400).send({
         error: { message: `'rating' must be a number between 0 and 5` }
+      })
+    }
+    if (!isWebUri(url)) {
+      logger.error(`Invalid url '${url}' supplied`)
+      return res.status(400).send({
+        error: { message: `'url' must be a valid URL` }
       })
     }
 
