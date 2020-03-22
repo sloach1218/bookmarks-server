@@ -50,3 +50,199 @@
 {"message":"Bookmark with id 123456 not found.","level":"error"}
 {"message":"Bookmark with id 123456 not found.","level":"error"}
 {"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 372f1952-5208-460b-a17f-ce7bbb5d7c14 created","level":"info"}
+{"message":"Bookmark with id ee4f815c-e529-484f-9e38-bb05209286cf created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 22c56ae6-915e-4480-960c-1e71ea21e9d4 created","level":"info"}
+{"message":"Bookmark with id fd6fbdad-53f8-47a4-bfb4-c046725f5dbd created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 947ba990-d4e0-483f-bbf5-4576d7b65deb created","level":"info"}
+{"message":"Bookmark with id e8ee859b-127a-4ea5-927a-1dfda82b600f created","level":"info"}
+{"message":"Bookmark with id 3c5e6fda-604d-4d98-9e47-0d55d14f3fdf created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 8807c717-1aef-4f5c-8746-a9be2e17553c created","level":"info"}
+{"message":"Bookmark with id 055cef18-64e0-43da-9421-09869be73ede created","level":"info"}
+{"message":"Bookmark with id 189e2cbf-b5b4-4084-a117-5d6e04a56590 created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 74d48834-71d5-48d1-b65f-e13fd6edc3dd created","level":"info"}
+{"message":"Bookmark with id fdfcd4f6-b42b-482e-ad72-e230aebf34ef created","level":"info"}
+{"message":"Bookmark with id d641fd34-37d2-4e02-9f2f-a6bb67149925 created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 4a938e58-30c4-4ddf-adc1-87eb442a33f1 created","level":"info"}
+{"message":"Bookmark with id 3ff3527d-67dc-4ee0-a0a6-fbfa892d6c22 created","level":"info"}
+{"message":"Bookmark with id f5a1624e-2942-4454-87e5-119daf525d7e created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 832c33ef-cdb0-4265-9df7-d373c5e848d9 created","level":"info"}
+{"message":"Bookmark with id d28cfdb5-c101-4131-9dc2-facfa4f4517d created","level":"info"}
+{"message":"Bookmark with id ca813e1d-3203-41c9-9992-db186a55fbf5 created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 527de6bc-bc98-4bf8-aae7-270fd779cff1 created","level":"info"}
+{"message":"Bookmark with id 07aba85f-a752-4781-abfb-ff263cbae852 created","level":"info"}
+{"message":"Bookmark with id 0ab4e09d-4c85-4904-81f0-e7e7230ca0a5 created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id a77a4dd1-5104-4e4b-9ecd-2a50d6b92dbf created","level":"info"}
+{"message":"Bookmark with id a8284c1f-81ef-49a7-8c22-7084dc224d9d created","level":"info"}
+{"message":"Bookmark with id ff30114a-b724-472d-ac57-484a06d9bc7b created","level":"info"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Bookmark with id 123 deleted.","level":"info"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Bookmark with id 1 created.","level":"info"}
+{"message":"Bookmark with id 1 created.","level":"info"}
